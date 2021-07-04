@@ -1,0 +1,4 @@
+# this is for the first part of the capstone assignment
+import pandas as pd
+import Numpy as np
+print("Hello Capstone Project Course!")
